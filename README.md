@@ -16,7 +16,7 @@
 ```
 - Add ZoomImageView to your layout as usual 
 ```sh
-<xxx.xxx.xxx.xxx.xxx.ZoomImageView <-- call ZoomImageView itend of ImageView
+<xxx.xxx.xxx.xxx.xxx.ZoomImageView <-- call ZoomImageView instead of ImageView
     android:id="@+id/image_photo"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
