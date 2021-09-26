@@ -1,4 +1,5 @@
 # ZoomImageView
+This is a component class in Kotlin for Android projects that extends from ImageView to help implement zoom feature on images.
 
 ### Hou to use
 
