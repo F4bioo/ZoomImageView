@@ -1,7 +1,10 @@
 # ZoomImageView
 
 ### Hou to use
-Create an attrs.xml file in the value folder
+
+- Copy the ZoomImageView.kt file to your Android project
+
+- Create or copy the attrs.xml file to the value folder
 
 ```sh
 <?xml version="1.0" encoding="utf-8"?>
@@ -11,7 +14,7 @@ Create an attrs.xml file in the value folder
     </declare-styleable>
 </resources>
 ```
-Add ZoomImageView to your layout as usual 
+- Add ZoomImageView to your layout as usual 
 ```sh
 <xxx.xxx.xxx.xxx.xxx.ZoomImageView <-- call ZoomImageView itend of ImageView
     android:id="@+id/image_photo"
